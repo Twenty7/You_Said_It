@@ -5,8 +5,8 @@ Description:
 You Said It! currently has over 100 phrases & replies that you can use to quickly respond to your friends and family with.
 
 Currently:
- - 22 free stickers
- - 134 more premium stickers
+ - 30 free stickers
+ - 127 more premium stickers
 
 A single in-app-purchase of the 'more stickers' package will grant access to ALL of the stickers we have to offer. This includes stickers we add in the future.
 
