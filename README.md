@@ -2,7 +2,7 @@
 iMessage Sticker app offering many phrases and replies.
 
 Description:
-You Said It! currently has over 100 phrases & replies that you can use to quickly respond to your friends and family with.
+You Said It! currently has over 150 phrases & replies that you can use to quickly respond to your friends and family with.
 
 Currently:
  - 30 free stickers
