@@ -5,11 +5,11 @@ Support:
 Email yousaidit@eight9.net for support
 
 Description:
-You Said It! currently has over 150 phrases & replies that you can use to quickly respond to your friends and family with.
+You Said It! currently has over 160 phrases & replies that you can use to quickly respond to your friends and family with.
 
 Currently:
  - 30 free stickers
- - 127 more premium stickers
+ - 133 more premium stickers
 
 A single in-app-purchase of the 'more stickers' package will grant access to ALL of the stickers we have to offer. This includes stickers we add in the future.
 
@@ -27,4 +27,5 @@ Instructions:
  - Tap & drag stickers over a previous message to place them on top of the message (or other stickers).
 
  Like our stickers? Want more stickers and features? Write a positive review of our sticker package to encourage us to make more stickers and add more features!
+ 
  
