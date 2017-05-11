@@ -1,0 +1,31 @@
+---
+layout: default
+title: Changelog
+---
+
+<section class="post-list">
+  <div class="container">
+    <h1 class="page-heading">Updates</h1>
+    <ul>
+      {% for post in paginator.posts %}
+        <article class="post-item">
+
+          <span class="post-time">
+            <time>{{ post.date | date: '%B %d, %Y' }} <strong> - </strong></time>
+          </span>
+          <span class="post-name">
+              <a class="post-link" href="{{ post.url | prepend: relative_url }}">{{ post.title }}</a>
+              <strong> - </strong>
+          </span>
+          <p class="post-stub">{{ post.content | strip_html | truncatewords: 40 }}</p>
+          <a href="{{ post.url | prepend: relative_url }}"> Read More </a>
+        </article>
+
+        <!-- hr -->
+      {% endfor %}
+    </ul>
+    <!-- p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p -->
+  </div>
+</section>
+
+{% include pagination.html %}
