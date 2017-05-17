@@ -26,9 +26,9 @@ profile_picture: /images/app_icon.png
 google_analytics: true
 tracking_id: UA-98315552-2
 
-free_sticker_cnt: 33
-more_sticker_cnt: 131
-total_sticker_cnt: 164
+free_sticker_cnt: 47
+more_sticker_cnt: 142
+total_sticker_cnt: 189
 
 # Build settings | Do not edit anything below this
 markdown: kramdown
